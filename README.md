@@ -3,7 +3,7 @@
 This project features a basic minimal JSON API written in Python using the Flask package. You should use it to
 learn the fundamentals of creating an API in Python, or for that matter any API as it has the usual suspects.
 
-## What You Can Do
+## What is Done
 
 * Returns a todo-style API with all the RESTFul routes
 * Data is in memory and has no DB (you can set one up, ...I will add that later)
